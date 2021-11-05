@@ -1,5 +1,5 @@
 {
-  "name": "argon2-node",
+  "name": "argon2-nodejs",
   "version": "0.28.2",
   "description": "An Argon2 library for Node",
   "main": "argon2.js",
@@ -66,7 +66,7 @@
     "module_path": "./lib/binding/napi-v{napi_build_version}",
     "host": "https://github.com/argon2-node/node-argon2/releases/download/",
     "remote_path": "v{version}",
-    "package_name": "centos7.tar.gz",
+    "package_name": "napi-v{napi_build_version}-centos7.tar.gz",
     "napi_versions": [
       3
     ]
