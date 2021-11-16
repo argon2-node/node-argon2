@@ -1,11 +1,12 @@
 {
   "name": "argon2-javascript",
-  "version": "0.28.2",
+  "version": "0.28.3",
   "description": "An Argon2 library for Node",
   "main": "argon2.js",
   "files": [
     "src/argon2_node.cpp",
     "argon2.d.ts",
+    "argon2.node",
     "binding.gyp",
     "argon2/CHANGELOG.md",
     "argon2/LICENSE",
